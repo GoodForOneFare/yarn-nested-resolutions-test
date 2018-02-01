@@ -1,0 +1,13 @@
+{
+  "name": "@goodforonefare/resolutions-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@goodforonefare/direct-dependency-1": "^0.0.3",
+    "@goodforonefare/direct-dependency-2": "^0.0.3"
+  },
+  "resolutions": {
+    "@goodforonefare/nested-dependency": "0.1.0"
+  }
+}
